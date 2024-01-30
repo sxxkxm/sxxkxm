@@ -3,7 +3,7 @@
 <h2>Connect with Me</h2>
 
 
-<img src="https://img.shields.io/badge/Gmail-?style=for-the-badge&logo=gmail&logoColor=black">
+<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=black">
 
 
 <!--
