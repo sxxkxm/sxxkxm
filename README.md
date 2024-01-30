@@ -2,7 +2,9 @@
 
 <h2>Connect with Me</h2>
 
-<img src="https://img.shields.io/badge/test?style=anytext-blue-othertext&logo=#EA4335&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Gmail-?style=for-the-badge&logo=gmail&logoColor=black">
+
 
 <!--
 **sxxkxm/sxxkxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
