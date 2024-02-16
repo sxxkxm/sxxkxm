@@ -1,18 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=85)
 
-<h2>Contact</h2>
+<h1>Hi 👋 I'm Soo</h1>
+
+<h2>☻ Contact</h2>
 
 <a href="mailto:sxxkxm@gmail.com"><img src="https://img.shields.io/badge/sxxkxm@gmail.com-2b2b2b?style=for-the-badge&logo=gmail&logoColor=fff"></a>
 <a href="https://sxxkxm.github.io"><img src="https://img.shields.io/badge/blog-c63939?style=for-the-badge&logo=jekyll&logoColor=fff"></a>
 <a href="https://linkedin.com/in/sxxkxm"><img src="https://img.shields.io/badge/linkedin-4080bf?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 <a href="https://sookim.site"><img src="https://img.shields.io/badge/portfolio-78a659?style=for-the-badge&logo=springboot&logoColor=fff"></a>
 
-<h2>Tech Stack</h2>
+<h2>⎈ Tech Stack</h2>
 
-<h2>Tools</h2>
+<h2>✐ Tools</h2>
 
 
-<h2>Statistics</h2>
+<h2>⚑ Statistics</h2>
 
 <div style="display:flex; width:100%; ">
   <img width="55.7%" align="center" src="https://github-readme-stats.vercel.app/api?username=sxxkxm&show_icons=true&theme=github_dark_dimmed" />
