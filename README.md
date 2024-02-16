@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&)
+
 ### Hi there 👋
 
 This is Soo Kim
