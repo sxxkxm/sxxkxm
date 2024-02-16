@@ -9,6 +9,7 @@ This is Soo Kim
 <a href="https://linkedin.com/in/sxxkxm"><img src="https://img.shields.io/badge/linkedin-4080bf?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 <a href="https://sookim.site"><img src="https://img.shields.io/badge/portfolio-78a659?style=for-the-badge&logo=springboot&logoColor=fff"></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxkxm&show_icons=true&theme=github_dark_dimmed)
 
 <!--
 **sxxkxm/sxxkxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
