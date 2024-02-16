@@ -9,10 +9,16 @@ This is Soo Kim
 <a href="https://linkedin.com/in/sxxkxm"><img src="https://img.shields.io/badge/linkedin-4080bf?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 <a href="https://sookim.site"><img src="https://img.shields.io/badge/portfolio-78a659?style=for-the-badge&logo=springboot&logoColor=fff"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxkxm&show_icons=true&theme=github_dark_dimmed)
+<div style="display:flex; width:100%; ">
+  <img height="240" width="53%" align="center" src="https://github-readme-stats.vercel.app/api?username=sxxkxm&show_icons=true&theme=github_dark_dimmed" />
+  <img height="225" width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxkxm&layout=compact&theme=github_dark_dimmed&hide=scss&langs_count=6"/>  
+</div>
+
 
 <!--
 **sxxkxm/sxxkxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxkxm&show_icons=true&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxkxm&layout=compact&theme=github_dark_dimmed)
 
 Here are some ideas to get you started:
 
