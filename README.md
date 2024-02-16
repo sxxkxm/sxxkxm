@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=85)
 
 <h2>Contact</h2>
 
