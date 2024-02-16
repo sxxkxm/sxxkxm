@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=cce5ff&height=85)
 
 <h1>Hi 👋 I'm Soo</h1>
 
